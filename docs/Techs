@@ -1,0 +1,4 @@
+Web-Socket
+
+1. First the http request is processed and then it is upgraded to web socket to establish stable connection
+    between client browser and server.
